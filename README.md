@@ -40,4 +40,4 @@ This project was a deep dive into **Spatial Invariance** and why **Convolutional
 
 ---
 
-*Feel free to star ⭐ this repository if you found it helpful!*<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/08285678-3f2f-4f63-a36f-f1e832590c91" />
+*Feel free to star ⭐ this repository if you found it helpful!*
